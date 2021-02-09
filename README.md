@@ -25,3 +25,5 @@
 *As my theme has a light and dark mode go to "color_scheme" in the file and type Light or Dark for options, save the file.
 
 *Then go to the powershell again and type spicetify apply.
+
+[Source.](https://www.muo.com/tag/customize-spotify-with-spicetify-themes/)
