@@ -1,4 +1,6 @@
-# Comfy Discord Theme for Spotify:
+![Screenshot](https://github.com/Parker06/Comfy)
+
+Comfy Discord Theme for Spotify:
 
 ## It uses Spicetify
 
