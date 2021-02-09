@@ -6,7 +6,7 @@ Comfy Discord Theme for Spotify:
 
 ## To install Spicetify:
 
-*Open and run powershell as admin on windows, for others view [https://github.com/khanhas/spicetify-cli/wiki/Installation.](https://github.com/khanhas/spicetify-cli/wiki/Installation)
+* Open and run powershell as admin on windows, for others view [https://github.com/khanhas/spicetify-cli/wiki/Installation.](https://github.com/khanhas/spicetify-cli/wiki/Installation)
 
 * Run this command Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.ps1" | Invoke-Expression.
 
