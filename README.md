@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/Parker06/Comfy)
+![Screenshot](https://github.com/Parker06/Comfy/blob/main/Comfy.PNG)
 
 Comfy Discord Theme for Spotify:
 
