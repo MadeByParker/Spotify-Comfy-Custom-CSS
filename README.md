@@ -8,13 +8,13 @@
 
 * Open and run powershell as admin on windows, for others view [https://github.com/khanhas/spicetify-cli/wiki/Installation.](https://github.com/khanhas/spicetify-cli/wiki/Installation)
 
-* Run this command Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.ps1" | Invoke-Expression.
+* Run this command: `Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.ps1" | Invoke-Expression`.
 
-* Run spicetify --help for list of commands.
+* Run `spicetify --help` for list of commands.
 
-* Type spicetify to create config file.
+* Type `spicetify` to create config file.
 
-* Then to make a backup of spicetify type: spicetify backup apply enable-devtool.
+* Then to make a backup of spicetify type: `spicetify backup apply enable-devtool`.
 
 ### Spotify will open automatically with the default theme so to change it.
 
@@ -26,6 +26,10 @@
 
 * As my theme has a light and dark mode go to "color_scheme" in the file and type Light or Dark for options, save the file.
 
-* Then go to the powershell again and type spicetify apply.
+* Then go to the powershell again and type `spicetify apply`.
 
 [Source.](https://www.muo.com/tag/customize-spotify-with-spicetify-themes/)
+
+## What to do if Spotify receives an update?
+
+* Go into Windows Powershell and then run the command, `spicetify apply` to re-apply the custom css theme.
