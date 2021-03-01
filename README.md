@@ -6,7 +6,7 @@
 
 ## To install Spicetify:
 
-* Open and run powershell as admin on windows, for others view [https://github.com/khanhas/spicetify-cli/wiki/Installation.](https://github.com/khanhas/spicetify-cli/wiki/Installation)
+* Press Windows Key and type Powershell, to open and run powershell as admin on windows, for others view [https://github.com/khanhas/spicetify-cli/wiki/Installation.](https://github.com/khanhas/spicetify-cli/wiki/Installation)
 
 * Run this command: `Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.ps1" | Invoke-Expression`.
 
@@ -27,6 +27,10 @@
 * As my theme has a light and dark mode go to "color_scheme" in the file and type Light or Dark for options, save the file.
 
 * Then go to the powershell again and type `spicetify apply`.
+
+## To update the same theme to newer version
+
+* Open Powershell as an adminstrator then type `spicetify apply` to update the theme, Spotify should restart automatically to apply the changes.
 
 [Source.](https://www.muo.com/tag/customize-spotify-with-spicetify-themes/)
 
