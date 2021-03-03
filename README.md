@@ -18,7 +18,7 @@
 
 ### Spotify will open automatically with the default theme so to change it.
 
-* Copy the color.ini and user.css files into C:\Users\Your User Name\.spicetify\Themes then create a new folder naming whatever you want.
+* Copy the color.ini and user.css files into C:\Users\Your User Name\\.spicetify\Themes then create a new folder naming whatever you want.
 
 ## Then to update it:
 
