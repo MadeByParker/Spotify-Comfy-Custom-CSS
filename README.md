@@ -36,4 +36,4 @@
 
 ## What to do if Spotify receives an update?
 
-* Go into Windows Powershell and then run the command, `spicetify apply` to re-apply the custom css theme.
+* Go into Windows Powershell and then run the command, `spicetify backup apply` to make a new backup point then once it created a backup then type `spicetify apply` to re-apply the custom css theme.
