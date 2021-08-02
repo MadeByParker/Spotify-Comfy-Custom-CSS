@@ -18,9 +18,7 @@
 
 * Run `spicetify --help` for list of commands.
 
-* Type `spicetify` to create config file.
-
-* Then to make a backup of spicetify type: `spicetify backup apply enable-devtool`.
+* Type `spicetify` to create config-xqui file.
 
 ### Spotify will open automatically with the default theme so to change it.
 
@@ -28,17 +26,23 @@
 
 ## Then to update it:
 
-* Go to .spicetify and click on the config.ini file, then replace "SpicetifyDefault" with the folder name you made e.g Comfy.
+* Type into the Powershell Window `spicetify current_theme <theme name> e.g. Comfy`.
 
-* As my theme has a light and dark mode go to "color_scheme" in the file and type Light or Dark for options, save the file.
+* Then type to select a color scheme (Mine has one which is called `Comfy`). Type `spicetify config color_scheme Comfy`.
 
-* Then go to the powershell again and type `spicetify apply`.
+* As themes may have multiple colour schemes e.g.  light and dark mode. You will need to type in the corresponding colour scheme.
+
+* Then go to the powershell again and type `spicetify apply`. And you should have a custom Spotify
 
 ## To update the same theme to newer version
 
 * Open Powershell as an adminstrator then type `spicetify apply` to update the theme, Spotify should restart automatically to apply the changes.
 
 [Source.](https://www.muo.com/tag/customize-spotify-with-spicetify-themes/)
+
+[Youtube Guide (Credit to Julian Gonzalez for the video)](https://www.youtube.com/watch?v=PoSidNiRu-g)
+
+[Community Themes by morpheusthewhite:](https://github.com/morpheusthewhite/spicetify-themes/tree/master)
 
 ## What to do if Spotify receives an update?
 
