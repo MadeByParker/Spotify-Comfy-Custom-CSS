@@ -1,4 +1,4 @@
-![Screenshot of the Theme](https://github.com/Parker06/Comfy/blob/main/Comfy.PNG)
+![Screenshot of the Theme](https://github.com/Parker06/Spotify-Comfy-Custom-CSS/blob/main/ComfyTheme.PNG)
 
 ## :warning: DISCLAIMER :warning:
 
