@@ -2,9 +2,9 @@
 
 ## :warning: DISCLAIMER :warning:
 
-* After the 1.1.59.714 Spotify update, spicetify does not work as it comes up with `error Cannot find symbol for Custom app React symbols` and will show a blank screen. ![Reference of the issue.](https://github.com/khanhas/spicetify-cli/issues/845)
+* After the 1.1.59.714 Spotify update, spicetify does not work as it comes up with `error Cannot find symbol for Custom app React symbols` and will show a blank screen. [Reference of the issue.](https://github.com/khanhas/spicetify-cli/issues/845)
 
-* ![Latest Spotify Version Applicable for Spicetify](https://spotify.en.uptodown.com/windows/download/3712596)
+* [Latest Spotify Version Applicable for Spicetify](https://spotify.en.uptodown.com/windows/download/3712596)
 
 # Comfy Discord Theme for Spotify:
 
