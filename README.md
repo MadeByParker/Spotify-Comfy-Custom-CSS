@@ -47,3 +47,18 @@
 ## What to do if Spotify receives an update?
 
 * Go into Windows Powershell and then run the command, `spicetify backup apply` to make a new backup point then once it created a backup then type `spicetify apply` to re-apply the custom css theme.
+
+## :warning: DISCLAIMER :warning:
+
+* When using older versions of Spotify, it may prompt you with `warning Spotify version and backup version are mismatched.
+Continue restoring anyway? [y/N]`, if you say `y` it will show you a FATAL erro button and you will have to reinstall Spotify.
+
+[Video Guide on how to Permanently Disable Spotify Updates](https://www.youtube.com/watch?v=84TT-deLQtU)
+
+* Once you have spotify installed, close it. Then go to this directory (`C:\Users\<username>\AppData\Local\Spotify`) in Windows Explorer. 
+
+* Then create a folder called `Update` if it hasn't created one yet. If it has, delete the contents in it. 
+
+* Then go to the properties of the "Update" folder, then go to the Security Tab.
+
+* Then deny full control for all users and it should disable windows figuring that you're on an older version of Spotify
