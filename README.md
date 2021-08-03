@@ -51,7 +51,7 @@
 
 ## :warning: DISCLAIMER :warning:
 
-* ### When using older versions of Spotify, it may prompt you with `warning Spotify version and backup version are mismatched. Continue restoring anyway? [y/N]`, if you say `y` it will show you a FATAL erro button and you will have to reinstall Spotify.
+* ### When using older versions of Spotify, it may prompt you with `warning Spotify version and backup version are mismatched. Continue restoring anyway? [y/N]`, if you say "yes" it will show you a FATAL error button and you will have to reinstall Spotify.
 
 ## [Video Guide on how to Permanently Disable Spotify Updates - Credit to ION Tutorials](https://www.youtube.com/watch?v=84TT-deLQtU)
 
